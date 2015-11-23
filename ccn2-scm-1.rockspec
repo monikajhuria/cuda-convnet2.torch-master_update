@@ -2,7 +2,7 @@ package = "ccn2"
 version = "scm-1"
 
 source = {
-   url = "git://github.com/soumith/cuda-convnet2.torch.git",
+   url = "git:///github.com/vicky001iith/cuda-convnet2.torch-master.git",
 }
 
 description = {
@@ -11,7 +11,7 @@ description = {
    All cuda-convnet2 modules exposed as nn.Module derivatives so 
    that they can be used with torch's neural network package
    ]],
-   homepage = "https://github.com/soumith/cuda-convnet2.torch",
+   homepage = "https://github.com/vicky001iith/cuda-convnet2.torch-master.git",
    license = "Apache 2.0"
 }
 
